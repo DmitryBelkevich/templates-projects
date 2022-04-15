@@ -1,3 +1,7 @@
 [submodule "java-project"]
 	path = java-project
 	url = https://github.com/DmitryBelkevich/java-project.git
+
+[submodule "gradle-project"]
+	path = gradle-project
+	url = https://github.com/DmitryBelkevich/gradle-project.git
