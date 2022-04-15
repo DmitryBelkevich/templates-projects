@@ -5,6 +5,7 @@ out
 ## Intellij IDEA
 
 .idea
+*.iml
 
 ## Gradle
 
