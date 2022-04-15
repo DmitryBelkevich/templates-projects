@@ -1,0 +1,3 @@
+[submodule "java-project"]
+	path = java-project
+	url = https://github.com/DmitryBelkevich/java-project.git
